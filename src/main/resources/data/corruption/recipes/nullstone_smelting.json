@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "corruption:nullstone_ore"
+  },
+  "result": "corruption:nullstone",
+  "experience": 1.0,
+  "cookingtime": 200
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "corruption:arcane_emerald"
+    }
+  },
+  "result": {
+    "item": "corruption:arcane_emerald_block"
+  }
+}

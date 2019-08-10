@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "corruption:void_iron_block"
+    }
+  ],
+  "result": {
+    "item": "corruption:void_iron",
+    "count": 9
+  }
+}

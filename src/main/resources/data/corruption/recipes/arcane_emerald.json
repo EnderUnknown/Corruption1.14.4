@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "corruption:arcane_emerald_block"
+    }
+  ],
+  "result": {
+    "item": "corruption:arcane_emerald",
+    "count": 9
+  }
+}

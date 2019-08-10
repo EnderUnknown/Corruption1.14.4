@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "corruption:abyssal_diamond_block"
+    }
+  ],
+  "result": {
+    "item": "corruption:abyssal_diamond",
+    "count": 9
+  }
+}

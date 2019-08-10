@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TTT",
+    "OIO",
+    "ORO"
+  ],
+  "key": {
+    "R": {
+      "item": "corruption:nullstone"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "T": {
+      "tag": "corruption:ebonic_planks"
+    },
+    "I": {
+      "item": "corruption:void_iron"
+    }
+  },
+  "result": {
+    "item": "corruption:magmapiston"
+  }
+}
