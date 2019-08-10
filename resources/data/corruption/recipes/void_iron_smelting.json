@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "corruption:void_iron_ore"
+  },
+  "result": "corruption:void_iron",
+  "experience": 1.0,
+  "cookingtime": 200
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "corruption:ebonoak"
+    }
+  ],
+  "result": {
+    "item": "corruption:ebonoak_planks",
+    "count": 4
+  }
+}

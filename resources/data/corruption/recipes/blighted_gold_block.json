@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "corruption:blighted_gold"
+    }
+  },
+  "result": {
+    "item": "corruption:blighted_gold_block"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "M",
+    "P"
+  ],
+  "key": {
+    "M": {
+      "item": "minecraft:magma_cream"
+    },
+    "P": {
+      "item": "corruption:magmapiston"
+    }
+  },
+  "result": {
+    "item": "corruption:magmasticky_piston"
+  }
+}

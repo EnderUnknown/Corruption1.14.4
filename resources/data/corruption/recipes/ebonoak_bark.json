@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WW",
+    "WW"
+  ],
+  "key": {
+    "W": {
+      "item": "corruption:ebonoak"
+    }
+  },
+  "result": {
+    "item": "corruption:ebonoak_bark",
+	"count":3
+  }
+}
